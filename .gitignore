@@ -1,0 +1,18 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+runtime/*
+up_dev.sh
+up_beta.sh
+up_web.sh
+config/local/*
+extensions/qc_php_sdk/logs/*
+*.DS_Store
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+web/template/css/
+web/template/js/
